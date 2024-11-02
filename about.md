@@ -10,13 +10,13 @@ I also enjoy building Blue & Red teaming tools!
 
 ## Job Experience
 ---
-- Detection Engineer @ Cipher (Saudi Arabia) - Present
+- Detection Engineer @ Cipher - Present
 - ~~Cyber Security Analyst @ Cipher (Saudi Arabia)~~
 - ~~Full Stack Development intern @ SDC~~
 
 ## Projects
 ---
-- [PySticky](https://github.com/iiArrow/PySticky): if you ever found yourself in situation where you need to parse out Windows Sticky Notes Artifacts AKA "Microsoft.Notes.exe" 📒
+- [PySticky](https://github.com/iiArrow/PySticky): if you ever found yourself in situation where you need to parse out Windows Sticky Notes 📒 Artifacts AKA "Microsoft.Notes.exe"
 
 ## Certifications
 ---
