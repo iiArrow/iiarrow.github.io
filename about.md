@@ -17,6 +17,7 @@ I also enjoy building Blue & Red teaming tools!
 ## Projects
 ---
 - [PySticky](https://github.com/iiArrow/PySticky): if you ever found yourself in situation where you need to parse out Windows Sticky Notes 📒 Artifacts AKA "Microsoft.Notes.exe"
+- [RedactMyStuff](https://github.com/iiArrow/RedactMyStuff): is a browser extension that enables you to pre-define a set of strings to replaced with whatever you set
 
 ## Certifications
 ---
